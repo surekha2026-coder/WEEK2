@@ -1,0 +1,47 @@
+{
+  "role": "image_generation_prompt_engine",
+  "task": "Generate a highly creative and visually impactful image representing the global warming system",
+  "context": {
+    "theme": "Global Warming & Climate Change",
+    "purpose": "Educational and awareness-focused visual",
+    "audience": "Global public, students, environmental campaigns",
+    "style": "cinematic, surreal realism"
+  },
+  "visual_description": {
+    "scene": "A split Earth floating in space, half healthy and half climate-damaged",
+    "left_side": {
+      "environment": "lush green forests, clean rivers, blue oceans, thriving wildlife",
+      "sky": "clear blue sky with soft sunlight",
+      "human_presence": "sustainable cities with wind turbines and solar panels"
+    },
+    "right_side": {
+      "environment": "cracked dry land, melting glaciers, rising sea levels, burning forests",
+      "sky": "dark polluted clouds with an orange-red heat glow",
+      "human_presence": "industrial factories emitting smoke, flooded coastal cities"
+    },
+    "central_focus": "The Earth showing visible temperature lines and glowing heat patterns"
+  },
+  "art_style": {
+    "lighting": "dramatic global illumination",
+    "color_palette": {
+      "cool_side": "greens, blues, soft whites",
+      "warm_side": "reds, oranges, dark browns"
+    },
+    "detail_level": "ultra-detailed",
+    "resolution": "4K"
+  },
+  "emotional_tone": {
+    "primary": "urgent",
+    "secondary": "hopeful",
+    "message": "Human actions determine the planet’s future"
+  },
+  "constraints": {
+    "avoid": ["text overlays", "logos", "watermarks"],
+    "focus_on": ["visual storytelling", "symbolism"]
+  },
+  "output_format": {
+    "type": "image",
+    "orientation": "landscape",
+    "quality": "high"
+  }
+}
