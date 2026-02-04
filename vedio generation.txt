@@ -1,0 +1,25 @@
+{
+  "type": "video_prompt",
+  "duration_seconds": {
+    "min": 1,
+    "max": 7
+  },
+  "scene": "morning sunrise",
+  "prompt": "A calm and beautiful morning sunrise with golden sunlight slowly appearing over the horizon, soft clouds glowing in warm orange and pink tones, gentle light rays spreading across the sky, peaceful atmosphere, cinematic lighting, natural colors, ultra-realistic, smooth motion",
+  "style": {
+    "mood": "peaceful, hopeful",
+    "lighting": "soft golden sunrise light",
+    "color_palette": ["warm orange", "pink", "soft yellow", "light blue"],
+    "camera_motion": "slow pan or subtle zoom"
+  },
+  "quality": {
+    "resolution": "4K",
+    "frame_rate": "24fps",
+    "detail": "high"
+  },
+  "environment": {
+    "location": "open landscape",
+    "weather": "clear sky with light clouds",
+    "time_of_day": "early morning"
+  }
+}
